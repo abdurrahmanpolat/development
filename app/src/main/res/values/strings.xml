@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ProbisApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="appbar_scrolling_view_behavior">MyArnecaProbisAplication</string>
+
+    <string name="blance">Blance : 1000</string>
+    <string name="user_name">Arneca Probis Aplication</string>
+    <string name="desc">Arneca Probis Aplication</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="btnNext">NEXT</string>
+    <string name="btnPreview">BACK</string>
+
+    <string name="fragment_catrgory">Fragment Categories</string>
+    <string name="fragment_product">Fragment Products</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

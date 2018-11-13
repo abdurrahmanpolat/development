@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="colorWhite">#ffffff</color>
+    <color name="colorTransparentWhite">#979797</color>
+
+    <color name="text_color">#af050505</color>
+
+    <color name="dividerColor">#80CBC4</color>
+    <color name="list_item_title">#AAAAAA</color>
+    <color name="list_group_title">#060606</color>
+
+    <color name="item_gradient_start_color">#FFFF87A5</color>
+    <color name="item_gradient_end_color">#FF008080</color>
+
+</resources>
