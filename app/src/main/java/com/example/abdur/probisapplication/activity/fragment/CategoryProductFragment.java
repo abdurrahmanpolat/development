@@ -39,7 +39,8 @@ public class CategoryProductFragment extends Fragment {
     private String category_id;
     private GridView gridLayout;
     Communicator communicator;
-private MKLoader loadin_bar;
+    private MKLoader loadin_bar;
+
     public CategoryProductFragment() {
         // Required empty public constructor
     }
